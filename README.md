@@ -58,12 +58,10 @@ currently_learning: Cloud-based Data Engineering, LLM-powered tooling
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="GITHUB_URL_HERE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/suthishkumar-k-8a2774316"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Suthishkumark"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:suthishkumark18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
-> ⚠️ Replace `LINKEDIN_URL_HERE`, `GITHUB_URL_HERE`, `YOUR_EMAIL_HERE`, and every `Suthishkumark` before publishing.
 
 ---
 
@@ -163,7 +161,7 @@ currently_learning: Cloud-based Data Engineering, LLM-powered tooling
 <img src="https://github-readme-stats.vercel.app/api?username=Suthishkumark&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suthishkumark&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Suthishkumark&theme=radical&hide_border=true&background=0D1117" height="170"/>
+<img src="https://streak-stats.demolab.com?user=Suthishkumark&theme=radical&hide_border=true&background=0D1117" height="170"/>
 
 </div>
 
