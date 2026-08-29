@@ -6,7 +6,7 @@
 
 <!-- ================= ARC-REACTOR STYLE AVATAR FRAME ================= -->
 <!-- Replace the href/src below with your own GitHub avatar URL -->
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Suthishkumark">
 <svg width="180" height="180" viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <clipPath id="avatarClip"><circle cx="90" cy="90" r="62"/></clipPath>
@@ -24,7 +24,7 @@
   <circle cx="90" cy="90" r="64" fill="none" stroke="#66FCF1" stroke-width="1.5" opacity="0.6">
     <animateTransform attributeName="transform" type="rotate" from="360 90 90" to="0 90 90" dur="9s" repeatCount="indefinite"/>
   </circle>
-  <image href="https://github.com/YOUR_USERNAME.png" x="28" y="28" width="124" height="124" clip-path="url(#avatarClip)"/>
+  <image href="https://github.com/Suthishkumark.png" x="28" y="28" width="124" height="124" clip-path="url(#avatarClip)"/>
 </svg>
 </a>
 
@@ -63,7 +63,7 @@ currently_learning: Cloud-based Data Engineering, LLM-powered tooling
   <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-> ⚠️ Replace `LINKEDIN_URL_HERE`, `GITHUB_URL_HERE`, `YOUR_EMAIL_HERE`, and every `YOUR_USERNAME` before publishing.
+> ⚠️ Replace `LINKEDIN_URL_HERE`, `GITHUB_URL_HERE`, `YOUR_EMAIL_HERE`, and every `Suthishkumark` before publishing.
 
 ---
 
@@ -160,10 +160,10 @@ currently_learning: Cloud-based Data Engineering, LLM-powered tooling
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Suthishkumark&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suthishkumark&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Suthishkumark&theme=radical&hide_border=true&background=0D1117" height="170"/>
 
 </div>
 
